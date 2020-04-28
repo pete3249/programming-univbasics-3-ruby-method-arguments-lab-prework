@@ -1,4 +1,4 @@
-def introduction (Bill)
+def introduction (name)
   puts "Hi my name is #{name}."
 end
 
